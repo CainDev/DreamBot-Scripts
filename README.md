@@ -6,3 +6,6 @@ Very tiny script written in a bit over 2 hours, most accounts lasted a full bond
 
 ## 👏 Vile Asher
 Pretty self-explanatory, it would use all the Vile Ashes in the Bank, this might be the 3rd/4th script I wrote, it still uses a Switch statement to manage Bot State 😭, it had no randomisation and it used Strings over Item IDs, without updating any long-term use of this will 100% wipe your account. It did introduce the base version of SmartMouseV2 when I had just learned what that was, eventually I modified it to be 90% faster and more human like.
+
+## 🛐 Monk Robe Looter
+This would loot Monk Robes from the Monastery in Edgeville, honestly pretty good GP/HR, must have been around 300-400K GP/HR in F2P, but it did seem to be a very high ban-rate activity, but while the price of Vile Ashes were low it was very profitable to do since it only required 31 Prayer, I think when I wrote this script it cost less than 50K due to bots running rampant everywhere in the game.
