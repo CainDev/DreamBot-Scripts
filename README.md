@@ -3,3 +3,6 @@ A few of my horribly written DreamBot scripts since it's now gone. Maybe these c
 
 ## Redwood Chopper
 Very tiny script written in a bit over 2 hours, most accounts lasted a full bond with only previously flagged accounts getting iced by Jagflex, pretty horrible money but it was very safe and very consistent, averaging around 200-300k GP/HR.
+
+## Vile Asher
+Pretty self-explanatory, it would use all the Vile Ashes in the Bank, this might be the 3rd/4th script I wrote, it still uses a Switch statement to manage Bot State 😭, it had no randomisation and it used Strings over Item IDs, without updating any long-term use this will 100% wipe your account. It did introduce the base version of SmartMouseV2 when I had just learned what that was.
