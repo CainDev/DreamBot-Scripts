@@ -1,8 +1,8 @@
-# DreamBot Scripts
+# 🤖 DreamBot Scripts
 A few of my horribly written DreamBot scripts since it's now gone. Maybe these can help people when writing for other clients. I started messing around with Java/Scripting around August 2025, and it was really fun while it lasted and managed to make some money. I started off with AbstractScript and then slowly migrated to the Tree Branch Leaf framework with a Single Module approach so I could easily reuse leaves/code. I also feel like I need to say this because of how braindead 90% of the scripters are when it comes to Runescape, but very little AI was used for everything I have written, I think if you use AI as a primary way to develop OSRS Scripts you'll get absolutely nowhere in the long-term, and you aren't learning anything so what's the point? Getting AI to shit you out a 20K Line script that you have no idea how to fix or manage is one of the most stupidest things in existence, I've actually had someone advocate for AI use yet they couldn't even figure out where the source files where on their PC, how unbelievably embarrassing.
 
-## Redwood Chopper
+## 🪓 Redwood Chopper
 Very tiny script written in a bit over 2 hours, most accounts lasted a full bond with only previously flagged accounts getting iced by Jagflex, pretty horrible money but it was very safe and very consistent, averaging around 200-300k GP/HR.
 
-## Vile Asher
+## 👏 Vile Asher
 Pretty self-explanatory, it would use all the Vile Ashes in the Bank, this might be the 3rd/4th script I wrote, it still uses a Switch statement to manage Bot State 😭, it had no randomisation and it used Strings over Item IDs, without updating any long-term use this will 100% wipe your account. It did introduce the base version of SmartMouseV2 when I had just learned what that was.
